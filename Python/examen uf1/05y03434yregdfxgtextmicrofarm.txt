@@ -1,0 +1,138 @@
+Hacer una granja
+
+Todas las pantallas
+-Nombre granja, dinero/nivel
+-Elemento principal
+-4 lineas prompt
+-Peticion
+
+if peticion not valid: opcion x no es valid
+clear y volver a imprimir
+
+Menu principal
+
+Name dinero/nivel
+1 name
+2 plants
+3 animals
+4 fabrics
+5 graner
+6 stats
+7 trap
+0 exit
+prompts
+peticion
+
+Plants
+
+10x5
+0 es vacio
+B  blat ready to claim
+X panoxa ready to claim
+P patata ready to claim
+Num Turnos restantes
+
+Para plantar: 
+plantar blat num
+prompt: s'han plantat num blats
+
+Per recollir:
+recollir blat (recoge todo)
+prompt
+If no terrenys available : No hay terrenos disponibles
+
+Semillas infinitas
+
+Valors plantas:
+- blat 5 interacts
+- panoxta 8
+- patata 9
+
+When claim, es recull en graner
+Cada recull es 1 euro
+
+Cada lvl 10+ terrenos hasta 100
+Each terreno 10€
+
+Para comprar un terreno:
+comprar terrenys
+prompt
+si no hay suficiente: prompt
+si no hay mas T in actual lvl: prompt max num
+you have full T you cant buy more
+
+ajuda plants
+exemples peticions
+
+Animals
+
+V0 V1 Vaca comen y dan leche
+G0 Gallina come y pone webo o esperas
+X0 Xai come y da lana
+
+Demanar cost
+pinso vaques/ blat gallines/ patatas xai > prompt
+
+alimentar V0
+no prou menjar
+
+recollir V0
+prompt
+if graner lleno prompt
+
+L llet 2 eur
+Ou 1 eur
+Lana 3 eur
+
+ajuda
+
+Fabriques
+
+Producte (comprar x€)
+
+Producte Fabricant x
+
+num fabricacio = turns fins producte acabat
+when finish LLEST
+
+comprar nom fabrica
+prompt
+si no no
+si ya esta ya esta
+
+fabricar producte
+started producing x
+no hi ha prou producte
+
+recollir producte
+
+Patats fregids 5 pàtatas - 25 ints - 2€
+ganxets 2 pats y 1 panoxa - 15 ints - 1€
+formage 3 llets - 30 ints - 2€
+yogur 2 llets - 10 ints - 1€
+truita 5 ous 2 patata - 15 ints - 5€
+batuts 2 llets 1 ou - 20 ints - 4€
+cabdell 2 llana - 15 ints - 10€
+roba 3 llana 1 panoxa - 25 ints - 20€
+
+valors lo de arriba XD
+
+ajuda
+
+Stats
+
+camps recollits
+aliments produits
+productes fabricats
+productes venuts
+reiniciar o menu
+
+Trap
+
+graner/2
+
+nivell x money
+
+
+
+
